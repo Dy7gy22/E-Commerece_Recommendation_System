@@ -6,7 +6,7 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 ### Fonctionnalités principales
 - **Scraping de données** : Extraction des données à partir du site Amazon pour collecter des informations sur les produits.
 - **Interface utilisateur** : Une application web développée avec Flask, HTML, CSS et JavaScript.
-- **Stockage de données** : Utilisation de SQL pour stocker les données des utilisateurs et des produits.
+- **Stockage de données** : Utilisation de SQL pour stocker les données des utilisateurs.
 - **Recommandations personnalisées** : Génération de recommandations basées sur les données collectées.
 
 ### Technologies utilisées
