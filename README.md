@@ -24,10 +24,25 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 
 ### Captures d'écran et médias
 
-1. ![Interface 1](https://github.com/Dy7gy22/E-Commerece_Recommendation_System/edit/main/img/img1.jpg)
-2. ![Interface 1](https://github.com/Dy7gy22/E-Commerece_Recommendation_System/edit/main/img/img2.jpg)
-3. ![Interface 1](https://github.com/Dy7gy22/E-Commerece_Recommendation_System/edit/main/img/img3.jpg)
+<div style="text-align: center;">
+  <h4>Page principale de l'application</h4>
+  <img src="/img/img1.jpg" alt="Page principale de l'application" width="600">
+</div>
 
+<div style="text-align: center;">
+  <h4>Produit dans la page</h4>
+  <img src="/img/img2.jpg" alt="Produit dans la page" width="600">
+</div>
+
+<div style="text-align: center;">
+  <h4>Produits recommandés</h4>
+  <img src="/img/img3.jpg" alt="Produits recommandés" width="600">
+</div>
+
+<div style="text-align: center;">
+  <h4>Vidéo descriptive</h4>
+  <p>Vous pouvez consulter la vidéo descriptive du projet à partir de ce <a href="https://drive.google.com/drive/u/0/folders/1vyMi_3U2hasZlCLX67XeNaLce6ilrk3z" target="_blank">lien Google Drive</a>.</p>
+</div>
 
 
 
