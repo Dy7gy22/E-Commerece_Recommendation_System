@@ -23,8 +23,23 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 - Un navigateur compatible avec les technologies modernes
 
 ### Captures d'écran et médias
-<img src="/img/img1.jpg" alt="Page principale de l'application" width="600">
-<img src="/img/img2.jpg" alt="Produit dans la page" width="600">
-<img src="/img/img2.jpg" alt="Produites recommendées" width="600">
+
+<div style="text-align: center;">
+  <h3>Page principale de l'application</h3>
+  <img src="/img/img1.jpg" alt="Page principale de l'application" width="600">
+</div>
+
+<div style="text-align: center;">
+  <h3>Produit dans la page</h3>
+  <img src="/img/img2.jpg" alt="Produit dans la page" width="600">
+</div>
+
+<div style="text-align: center;">
+  <h3>Produits recommandés</h3>
+  <img src="/img/img3.jpg" alt="Produits recommandés" width="600">
+</div>
+
+video de lapplication:
+
 
 
