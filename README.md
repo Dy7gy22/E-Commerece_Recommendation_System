@@ -25,21 +25,20 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 ### Captures d'écran et médias
 
 <div style="text-align: center;">
-  <h3>Page principale de l'application</h3>
+  <h6>Page principale de l'application</h6>
   <img src="/img/img1.jpg" alt="Page principale de l'application" width="600">
 </div>
 
 <div style="text-align: center;">
-  <h3>Produit dans la page</h3>
+  <h6>Produit dans la page</h6>
   <img src="/img/img2.jpg" alt="Produit dans la page" width="600">
 </div>
 
 <div style="text-align: center;">
-  <h3>Produits recommandés</h3>
+  <h6>Produits recommandés</h6>
   <img src="/img/img3.jpg" alt="Produits recommandés" width="600">
 </div>
 
-video de lapplication:
 
 
 
