@@ -24,28 +24,9 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 
 ### Captures d'écran et médias
 
-<div style="text-align: center;">
-  <h4>Page principale de l'application</h4>
-  <img src="/img/img1.jpg" alt="Page principale de l'application" width="600">
-</div>
-
-<div style="text-align: center;">
-  <h4>Produit dans la page</h4>
-  <img src="/img/img2.jpg" alt="Produit dans la page" width="600">
-</div>
-
-<div style="text-align: center;">
-  <h4>Produits recommandés</h4>
-  <img src="/img/img3.jpg" alt="Produits recommandés" width="600">
-</div>
-
-<div style="text-align: center;">
-  <h4>Vidéo descriptive</h4>
-  <video width="600" controls>
-    <source src="/video/Ecommerce_Recommendation_System.mp4" type="video/mp4">
-    Votre navigateur ne supporte pas la lecture des vidéos.
-  </video>
-</div>
+1. ![Interface 1](https://github.com/Dy7gy22/E-Commerece_Recommendation_System/edit/main/img/img1.jpg)
+2. ![Interface 1](https://github.com/Dy7gy22/E-Commerece_Recommendation_System/edit/main/img/img2.jpg)
+3. ![Interface 1](https://github.com/Dy7gy22/E-Commerece_Recommendation_System/edit/main/img/img3.jpg)
 
 
 
