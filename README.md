@@ -22,5 +22,8 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 - BeautifulSoup et/ou Selenium
 - Un navigateur compatible avec les technologies modernes
 
+### Captures d'écran et médias
+
+
 
 
