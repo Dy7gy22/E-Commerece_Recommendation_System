@@ -42,7 +42,7 @@ Ce projet est un système de recommandation de produits pour une plateforme de c
 <div style="text-align: center;">
   <h4>Vidéo descriptive</h4>
   <video width="600" controls>
-    <source src="/video/Ecommerce Recommendation System.mp4" type="video/mp4">
+    <source src="/video/Ecommerce_Recommendation_System.mp4" type="video/mp4">
     Votre navigateur ne supporte pas la lecture des vidéos.
   </video>
 </div>
